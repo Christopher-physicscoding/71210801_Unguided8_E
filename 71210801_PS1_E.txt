@@ -1,0 +1,64 @@
+diket =
+a = 1021
+b= 1
+un = 3020
+
+ditanya sn = ?
+jawab =
+
+un = a + ( n-1 )* b
+masukan nilai un = 3021
+3021 = a + ( n-1 ) *b
+
+masukan nilai a = 1021
+3020 =  1021 + ( n-1 )*b
+
+masukan nilai b= 1
+3020 = 1021 + ( n-1 )* 1
+
+kalikan 1 dengan di dalam kurung
+3020 = 1021 + ( n-1 )
+
+kurangkan kedua ruas dengan 1021
+3020 - 1021 = 1021 + (n-1 ) - 1021
+
+hasil dari pengurangan dengan 1021
+1999 = ( n-1 )
+
+buka kurung ( n-1 )
+1999 =  n-1 
+
+tambahkan kedua ruas dengan 1
+1999+1 = n-1 +1
+
+hasil dari pertambahan 
+2000 = n
+
+setelah menemukan n  kita akan melakukan dengan perhitungan rumus baru
+
+Sn = n/2* ( a + un )
+
+
+masukan nilai n yang ditemukan dari perhitungan awal
+Sn = 2000/2 * ( a + un )
+ 
+masukan nilai a yang diketahui di soal
+Sn = 2000/2 * ( 1021 + un )
+
+masukan nilai un yang diketahui di soal
+Sn = 2000/2 * ( 1021 + 3020 )
+
+jumlahkan di dalam kurung terlebih dahulu
+Sn = 2000/2 * ( 4041 )
+
+lakukan perhitungan di luar kurung
+Sn = 1000 * ( 4041 )
+
+buka kurung ( 4021 )
+Sn = 1000 * 4021
+
+kalikan hasil dari kedua perhitungan yang di dapat
+Sn = 4 021 000
+
+Kalimat jadi :
+jadi hasil yang didapat adalah 4 021 000
