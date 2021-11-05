@@ -1,0 +1,10 @@
+input m 
+
+if k = 0 atau k = 1
+	cetak "fibonaci (k) = k" else 
+
+while k> 1 dan k ≤ m 
+	fibonacci (k) = fibonaci (k-1 )  + fibonaci (k-2) 
+	cetak fibonacci (k) = k + 1
+
+end
