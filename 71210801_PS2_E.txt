@@ -1,0 +1,16 @@
+soal 2 
+Gelas yang terisi adalah gelas 1, lalu gelas 3, gelas 2, gelas 5, gelas 7, gelas 6, dan gelas 4.
+
+hal ini karena air akan mengalir ke gelas 4 dan mencapai lubang yang akan terhubung dengan gelas 2 dan akan mengisi gelas 2.
+di gelas 2 air tidak akan membuat penuh gelas ini karena ada pipa yang terhubung dengan gelas 1 dan 3.
+jadi air akan mengalir mengisi gelas 1 terlebih dahulu hingga penuh lalu air akan mengalir kembali ke gelas 2 
+hingga mencapai pipa dan mengisi gelas 3 terlebih dahulu, sampai gelas 3 penuh lalu baru kemudian air 
+akan mengisi gelas 2 hingga penuh.
+
+sesudah mengisi bagian gelas 123 air akan kembali mengisi gelas 4 dan mencapai pipa gelas 6 dan mengisi gelas 6
+di gelas 6, air dari kran tidak akan membuat penuh gelas ini karena ada pipa yang terhubung dengan gelas 5 dan 7.
+jadi air akan mengalir mengisi gelas 5 terlebih dahulu hingga penuh lalu air akan mengalir kembali ke gelas 6 
+hingga mencapai pipa dan mengisi gelas 7 terlebih dahulu, sampai gelas 7 penuh lalu baru kemudian air 
+akan mengisi gelas 6 hingga penuh.
+
+sesudah mengisi semua gelas, air akan mengisi gelas 4 hingga penuh
